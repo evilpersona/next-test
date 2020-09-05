@@ -1,0 +1,19 @@
+{
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "devDependencies": {
+        "postcss-flexbugs-fixes": "^4.2.1",
+        "postcss-preset-env": "^6.7.0",
+        "tailwindcss": "^1.7.6"
+    },
+    "dependencies": {
+        "date-fns": "^2.16.1",
+        "next": "^9.5.3",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-html": "^2.1.0"
+    }
+}
